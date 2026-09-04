@@ -1,48 +1,76 @@
-# \# IPL Cricket Analytics
+\# IPL Cricket Analytics
 
-# 
 
-# A beginner-friendly IPL cricket analytics project using Python, SQL, Jupyter Notebook, and data visualization.
 
-# 
+A beginner-friendly data analytics project focused on analyzing Indian Premier League (IPL) cricket data using Python, SQL, Jupyter Notebook, and data visualization.
 
-# \## Project Structure
 
-# 
 
-# \- data/raw - Raw datasets
+\## Project Objective
 
-# \- data/processed - Cleaned datasets
 
-# \- sql/practice - SQL practice files
 
-# \- notebooks - Jupyter notebooks
+The objective of this project is to explore IPL cricket data, perform data cleaning and analysis, practice SQL queries, and create meaningful visualizations and insights.
 
-# \- reports/figures - Charts and figures
 
-# \- dashboard - Dashboard files
 
-# 
+\## Project Structure
 
-# \## Tools
 
-# 
 
-# \- Python
+\- `data/raw/` - Original raw datasets
 
-# \- Pandas
+\- `data/processed/` - Cleaned and processed datasets
 
-# \- NumPy
+\- `sql/practice/` - SQL practice queries
 
-# \- Matplotlib
+\- `notebooks/` - Jupyter notebooks for analysis
 
-# \- SciPy
+\- `reports/figures/` - Charts and visualizations
 
-# \- Statsmodels
+\- `dashboard/` - Dashboard files
 
-# \- Scikit-learn
 
-# \- Jupyter
 
-# \- Git \& GitHub
+\## Tools \& Technologies
+
+
+
+\- Python
+
+\- Pandas
+
+\- NumPy
+
+\- Matplotlib
+
+\- SciPy
+
+\- Statsmodels
+
+\- Scikit-learn
+
+\- Jupyter Notebook
+
+\- SQL
+
+\- Git
+
+\- GitHub
+
+
+
+\## Project Status
+
+
+
+Environment and Git setup completed successfully.
+
+
+
+\## Author
+
+
+
+\*\*Muhammed Anshif K\*\*
 
